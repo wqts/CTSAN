@@ -1,0 +1,6 @@
+torch==2.6.0
+wandb==0.19.6
+scikit-learn==1.6.1
+scipy==1.15.1
+numba==0.61.0
+numpy==2.1.0
